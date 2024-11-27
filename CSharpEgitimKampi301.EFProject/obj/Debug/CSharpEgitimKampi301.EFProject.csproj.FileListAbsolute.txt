@@ -1,0 +1,17 @@
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe.config
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Form1.resources
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Properties.Resources.resources
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CopyComplete
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources
