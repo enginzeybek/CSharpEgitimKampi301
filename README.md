@@ -148,5 +148,26 @@ lblSerelYereliLocationCount.Text = Db.Guide.Where(g => g.GuideName == "Serel" &&
     ).Count().ToString();
 ```
 
+# 📖 CSharpEgitim Kampi
+
+- Form uygulamaları üzerinde CRUD işlemlerinde yaptık. Entity Layer katmanında entitileri oluşturduk. 
+
+---
+
+- Data Access katmanında context sınıfını kullanarak CRUD işlemlerini gerçekleştirdik. 
+    Burada EntityFramework kullandık.
+
+---
+
+- Business katmanında iş mantığı katmanı olarak CRUD işlemlerine köprü oluşturduk.
+
+---
+
+- Prensentation katmanında connection string ile SQL bulunan veri tabanımıza bağlandık ve oradaki verileri form uygulamalarında görüntüledik.
+
+---
+
+- EfProject katmanında istatistik formu oluşturduk. LİNQ dilini kullanarak veritabanından istatistik çektik.  
+
 
 
