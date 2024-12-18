@@ -1,0 +1,15 @@
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CopyComplete
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
